@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 echo "fde";
 
 echo "hi";
-=======
-echo "fde";
->>>>>>> parent of c283308... re f e
